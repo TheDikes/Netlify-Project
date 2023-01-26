@@ -7,7 +7,7 @@ body {
 }
 
 .container {
-    background: black;
+    background: blue;
     color: white;
     max-width: 70%;
     margin: auto;
@@ -22,7 +22,7 @@ h1 {
 
 h2 {
     font-size: 50px;
-    margin-top: 0;
+    margin-top: 10px;
     margin-bottom: 20px;
 }
 
