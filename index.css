@@ -7,9 +7,11 @@ body {
 }
 
 .container {
-    background: white;
+    background: black;
+    color: white;
     max-width: 80%;
     margin: auto;
+    padding top : 30px
     border: 3px solid black;
     border-radius: 10px;
 
